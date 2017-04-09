@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">完美消息</string>
+    <string name="action_settings">设置</string>
+    <string name="action_change_topic">切换主题</string>
+    <string name="action_about">关于</string>
+    <string name="action_openother">在浏览器中打开</string>
+    <string name="action_copy">复制内容文本</string>
+    <string name="title_activity_zhihu_next">ZhihuNextActivity</string>
+</resources>
